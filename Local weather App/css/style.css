@@ -1,0 +1,106 @@
+#swap_button {
+
+  background-color: grey;
+  font-size: 20px;
+}
+body {
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  font-size: 70px;
+  text-align: center;
+}
+h1 {
+  margin-top:50px;
+  font-family: 'Cabin', sans-serif;
+  font-weight: bold;
+  min-width: 320px;
+  font-size: 60px;
+  text-align: center;
+}
+#temp {
+  font-size: 40px;
+}
+#weather {
+  font-size:30px;
+}
+#wind_speed {
+  font-size: 30px;
+}
+#city {
+  font-size: 40px;
+  text-shadow: 2px 4px 2px #333333;
+  margin: 10px 20px 10px 20px;
+  padding: 10px 10px 10px 10px;
+}
+#country {
+  font-size: 3em;
+  text-shadow: 2px 4px 2px #333333;
+}
+
+.weather_boundary {
+border:solid;
+  border-color:black;
+  
+}
+.weather_forecast {
+  background-color: #93AFC4;
+  border: 2px solid;
+  border-radius: 50%;
+  font-size: 10px;
+  padding: 10px 10px 10px 10px;
+border:solid;
+  border-color:black;
+margin-bottom:10px;
+}
+
+/* footer formatting */
+.footer {
+   background-color: #222222
+  position: absolute;
+  font-size: 12px;
+  font-weight: normal;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  margin: 0 auto !important;
+text-align: center !important;
+width: 100% !important;
+
+}
+
+.footer_text
+{
+
+  padding:5px;
+  color:grey;
+  font-size: 12px;
+  font-weight: normal;
+  text-align:center;
+}
+.footer-logos {
+  font-size: 14px;
+  margin-top: -1em;
+
+}
+
+
+.footer-logos i {
+  border: 1px solid ;
+  border-radius: 25%;
+  color: #777777;
+  margin: 0 0 1em 1em;
+  padding-top: .25em;
+  text-align: center;
+  vertical-align: -1.5em;
+}
+
+
+.footer-logos .fa {
+  height: 1.75em;  
+  width: 1.75em;
+}
+
+.footer .container-fluid {
+  max-width: 780px;
+}

@@ -1,0 +1,33 @@
+.align-right
+{
+ float: right;
+ margin-left: 30px;
+  width="300";
+  height="305";
+
+}
+
+.align-left
+{
+  float : left;
+  margin-right: 30px;
+  width:"30";
+  height:"30";
+
+}
+
+body {background-color: powderblue;}
+
+.box {
+   box-sizing: border-box;
+   border: 8px solid black;
+    width: 302px;
+     margin-top:10px 10px,10px,0;
+  color: black;
+      ;
+
+}
+.heading-align
+{
+  text-align: center;
+}

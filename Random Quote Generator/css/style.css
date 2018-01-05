@@ -1,0 +1,94 @@
+body {
+  background-image: url("https://i.ytimg.com/vi/ETDz5z46Loo/maxresdefault.jpg");
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  
+}
+
+h1 {
+  font-family: 'Inknut Antiqua', serif;
+  text-align: center;
+  font-size: 70px;
+  margin-top: 50px;
+}
+
+.quote-design {
+  font-family: 'Philosopher', sans-serif;
+  font-size: 30px;
+  text-align: center;
+  border-radius: 50px;
+  background-color: BlanchedAlmond;
+  border:solid;
+padding: 20px 30px 20px 20px;
+  margin:60px 30px 40px 20px;
+}
+
+.authorDesign {
+  font-family: 'Quattrocento Sans', sans-serif;
+  font-size: 25px;
+  text-align: right;
+  margin-right: 20px;
+}
+
+.buttons {
+padding:5px 5px 5px 5px;
+  white-space: normal !important
+  word-wrap: break-word;
+  font-size: 25px;
+  box-shadow: 12px 12px 10px #000000;
+  margin:10px 10px 10px 10px;
+}
+/* footer formatting */
+.footer {
+  display: block;
+   background-color: #222222
+ position: fixed;
+  font-size: 12px;
+  font-weight: normal;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: black;
+  margin-top:50px;
+text-align: center !important;
+width: 100% !important;
+ 
+
+}
+
+.footer_text
+{
+
+  padding:5px;
+  color:grey;
+  font-size: 12px;
+  font-weight: normal;
+  text-align:center;
+}
+.footer-logos {
+  font-size: 14px;
+  margin-top: -1em;
+
+}
+
+
+.footer-logos i {
+  border: 1px solid ;
+  border-radius: 25%;
+  color: #777777;
+  margin: 0 0 1em 1em;
+  padding-top: .25em;
+  text-align: center;
+  vertical-align: -1.5em;
+}
+
+
+.footer-logos .fa {
+  height: 1.75em;  
+  width: 1.75em;
+}
+
+.footer .container-fluid {
+  max-width: 780px;
+}
